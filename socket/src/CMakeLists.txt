@@ -1,5 +1,0 @@
-cmake_minimum_required(VERSION 3.10)
-add_subdirectory(tiny_recv_wite)
-add_subdirectory(select)
-add_subdirectory(poll)
-add_subdirectory(epoll)
